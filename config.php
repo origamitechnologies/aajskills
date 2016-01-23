@@ -19,5 +19,11 @@
  */
  
 include('config.inc.php');
+;;
+for(){echo "dsfaf";
 
+
+
+echo "wdawfda";
+}
 ?>
